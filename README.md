@@ -1,3 +1,3 @@
 # js6-dars
 
-Иг js5-dars kodlari
+Bu js6-dars kodlari
